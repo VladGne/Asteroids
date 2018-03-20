@@ -1,0 +1,9 @@
+D:\_Projects\Asteroids\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\_Projects\Asteroids\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\_Projects\Asteroids\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.Cache
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\_Projects\Asteroids\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
